@@ -749,7 +749,7 @@ Almost all solutions can be found in discussion of each quesions, and many valua
 | 788 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) | hard |  | :lock: |
 | 790 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | medium |  |  |
 | 791 | [Split BST](https://leetcode.com/problems/split-bst/description/) | medium |  | :lock: |
-| 793 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | medium | [C++](./leetcode/793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function/psfzf.cpp) |  |
+| 793 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | medium | [C++](./793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function/psfzf.cpp) |  |
 | 794 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | hard |  |  |
 | 795 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | medium |  |  |
 | 796 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | hard |  |  |
