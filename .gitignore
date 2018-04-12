@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Cached
+.DS_Store
+
+# Scripts
+scripts/*
+
+# allow
+!scripts/*.py
