@@ -33,6 +33,7 @@
 
 # Cached
 .DS_Store
+*.test
 
 # Scripts
 scripts/*

@@ -18,7 +18,7 @@ K will be an integer in the range [0, 10^9].
 */
 
 // Straight TLE
-// BinSearch !!!!!!!!!!!!!!
+// BinSearch !!!!!!!!!!!!!! AC
 
 class Solution {
 public:
