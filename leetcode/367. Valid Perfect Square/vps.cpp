@@ -24,6 +24,7 @@ public:
         while(l<=r){
             mid = (l+r)/2;
             pro = num / mid;
+            // Avoid overflow
             if(pro == mid && mid * mid == num)
                 return true;
             if(pro < mid)

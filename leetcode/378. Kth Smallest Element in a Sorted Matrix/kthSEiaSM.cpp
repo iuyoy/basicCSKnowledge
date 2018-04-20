@@ -16,7 +16,7 @@ return 13.
 Note:
 You may assume k is always valid, 1 ≤ k ≤ n2.
 */
-
+// https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378
 // Binary Search O(log(max-min)*n*log(n))
 class Solution {
 public:

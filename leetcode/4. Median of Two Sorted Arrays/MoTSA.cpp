@@ -52,30 +52,31 @@ public:
     }
 };
 
-class Solution {
-public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        const int m = nums1.size(), n = nums2.size();
-        if(m>n)
-            return findMedianSortedArrays(nums2, nums1);
-        int l = 0, r = m, i, j;
-        int semi = (m+n+1)/2;
-
-        while(l<r){
-            i = (l+r)/2;
-            j = semi - i;
-            if(i<m && nums2[j-1]>nums1[i])
-                l = i+1;
-            else if(i>0 && nums2[j]<nums1[i-1])
-                r = i-1;
-            else{
-                //all nums1 are in left
-                if(i == m) r = nums2[j];
-                else if(j == n)
-                //all nums1 are in right
-                return (double)(l+r)/2;
-            }
-
-        }
-    }
-};
+// Binary Search
+// class Solution {
+// public:
+//     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+//         const int m = nums1.size(), n = nums2.size();
+//         if(m>n)
+//             return findMedianSortedArrays(nums2, nums1);
+//         int l = 0, r = m, i, j;
+//         int semi = (m+n+1)/2;
+//
+//         while(l<r){
+//             i = (l+r)/2;
+//             j = semi - i;
+//             if(i<m && nums2[j-1]>nums1[i])
+//                 l = i+1;
+//             else if(i>0 && nums2[j]<nums1[i-1])
+//                 r = i-1;
+//             else{
+//                 //all nums1 are in left
+//                 if(i == m) r = nums2[j];
+//                 else if(j == n)
+//                 //all nums1 are in right
+//                 return (double)(l+r)/2;
+//             }
+//
+//         }
+//     }
+// };

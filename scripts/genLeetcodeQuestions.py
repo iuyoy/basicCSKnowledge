@@ -16,12 +16,12 @@ def listSolutions():
 
 # generate markdown url
 def getFilename(dirpath, filenames):
-    allow_postfix = ['cpp', 'c']
+    allow_postfix = {'cpp':'cpp', 'c':'c', '.py':'python'}
     solution = ''
     for filename in filenames:
         postfix = filename.split('.')[-1]
         if postfix in allow_postfix:
-            solution += '[{}](./{}/{}), '.format(postfix, dirpath.replace(' ', '%20'), filename)
+            solution += '[{}](./{}/{}), '.format(allow_postfix[postfix], dirpath.replace(' ', '%20'), filename)
     return solution[:-2]
 
 
@@ -44,9 +44,10 @@ def generateReadme(solutions = {}):
 | --- | --- | --- | --- | --- | --- |
 """)
         # dir of questions
-        for q in leetcode['stat_status_pairs'][::-1]:
+        for i, q in enumerate(leetcode['stat_status_pairs'][::-1]):
             # print(q['status'], type(q['status']))
-            id, title, url_title, difficulty, locked, solved = q['stat']['question_id'],q['stat']['question__title'],q['stat']['question__title_slug'],levels[q['difficulty']['level']], lock[q['paid_only']], status[q['status']]
+            # frontend_question_id and question_id differs
+            id, title, url_title, difficulty, locked, solved = q['stat']['frontend_question_id'],q['stat']['question__title'],q['stat']['question__title_slug'],levels[q['difficulty']['level']], lock[q['paid_only']], status[q['status']]
             solution = solutions[id] if id in solutions else ""
             line = '|{}|[{}](https://leetcode.com/problems/{}/description/)|{}|{}|{}|{}|\n'.format(id, title, url_title, difficulty, solution, locked, solved)
             # print(line)

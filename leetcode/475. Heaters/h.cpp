@@ -21,6 +21,10 @@ Explanation: The two heater was placed in the position 1 and 4. We need to use r
 */
 
 // binary search O(nlogn + mlog(n))
+// Sort the heaters first,
+// For each house, find the first heater "a" before it and the first heater "b" after it.
+// Take the min distance of these two Heaters.
+// Take the max one of all those distances.
 class Solution {
 public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {

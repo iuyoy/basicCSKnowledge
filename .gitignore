@@ -35,6 +35,10 @@
 .DS_Store
 *.test
 
+# Temp
+templates/*
+test/*
+
 # Scripts
 scripts/*
 

@@ -38,7 +38,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|medium||||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|hard||||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|easy|[c](./26.%20Remove%20Duplicates%20from%20Sorted%20Array/rdfsa.c)||:white_check_mark:|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|easy||||
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|easy|[cpp](./27.%20Remove%20Element/RE.cpp)||:white_check_mark:|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|easy||||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|medium|[cpp](./29.%20Divide%20Two%20Integers/DTI.cpp)||:white_check_mark:|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|hard||||
@@ -162,7 +162,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|medium||||
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)|hard||||
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|medium||||
-|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|medium||||
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|medium|[cpp](./151.%20Reverse%20Words%20in%20a%20String/RWiaS.cpp)||:white_check_mark:|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|medium|||:white_check_mark:|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|medium|[cpp](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/FMiRSA.cpp)||:white_check_mark:|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|hard|[cpp](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/FMiRSA2.cpp)||:white_check_mark:|
@@ -217,16 +217,16 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|easy||||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|easy||||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|easy||||
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|easy||||
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|medium||||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|easy|[cpp](./206.%20Reverse%20Linked%20List/RLL.cpp)||:white_check_mark:|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|medium|[cpp](./207.%20Course%20Schedule/CS.cpp)||:white_check_mark:|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|medium||||
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|medium|[c](./209.%20Minimum%20Size%20Subarray%20Sum/msss.c)||:white_check_mark:|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|medium||||
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|medium|[cpp](./210.%20Course%20Schedule%20II/CS2.cpp)||:white_check_mark:|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)|medium||||
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/)|hard||||
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|medium||||
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|hard||||
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|medium||||
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|medium|[cpp](./215.%20Kth%20Largest%20Element%20in%20an%20Array/KthLEiaA.cpp)||:white_check_mark:|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|medium||||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|easy||||
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|hard||||
@@ -248,7 +248,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|easy||||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|easy||||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|medium||||
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|easy||||
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|easy|[cpp](./237.%20Delete%20Node%20in%20a%20Linked%20List/DNiaL.cpp)||:white_check_mark:|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|medium|[cpp](./238.%20Product%20of%20Array%20Except%20Self/poaes.cpp)||:white_check_mark:|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)|hard||||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|medium|[cpp](./240.%20Search%20a%202D%20Matrix%20II/Sa2DM.cpp)||:white_check_mark:|
@@ -274,8 +274,8 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/)|medium||||
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/)|medium||:lock:||
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/description/)|hard||||
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|easy||||
-|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|medium||||
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|easy|[cpp](./263.%20Ugly%20Number/UN.cpp)||:white_check_mark:|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|medium|[cpp](./264.%20Ugly%20Number%20II/UN2.cpp)||:white_check_mark:|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/)|hard||:lock:||
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)|easy||:lock:||
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/)|medium||:lock:||
@@ -324,7 +324,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|medium||||
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/)|medium||:lock:||
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)|hard|[cpp](./312.%20Burst%20Balloons/bb.cpp)||:white_check_mark:|
-|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|medium||||
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|medium|[cpp](./313.%20Super%20Ugly%20Number/SUN.cpp)||:white_check_mark:|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/)|medium||:lock:||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|hard||||
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|hard|[cpp](./316.%20Remove%20Duplicate%20Letters/rdl.cpp)||:white_check_mark:|
@@ -340,7 +340,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|easy||||
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/)|hard||||
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|medium|||:white_check_mark:|
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|hard||||
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|hard|[cpp](./329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/LIPiaM.cpp)||:white_check_mark:|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|hard||||
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|medium||||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)|medium||||
@@ -358,7 +358,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|easy|||:white_check_mark:|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|easy||||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/)|easy||:lock:||
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|medium||||
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|medium|[cpp](./347.%20Top%20K%20Frequent%20Elements/TkFE.cpp)||:white_check_mark:|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)|medium||:lock:||
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|easy|[cpp](./349.%20Intersection%20of%20Two%20Arrays/iofta.cpp)||:white_check_mark:|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|easy|[cpp](./350.%20Intersection%20of%20Two%20Arrays%20II/iotaii.cpp)||:white_check_mark:|
@@ -456,7 +456,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|easy|[c](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/fandiaa.c)||:white_check_mark:|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)|medium||||
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|medium||||
-|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|medium||||
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|medium|[cpp](./451.%20Sort%20Characters%20By%20Frequency/SCBF.cpp)||:white_check_mark:|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|medium||||
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)|easy||||
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/)|medium|[cpp](./454.%204Sum%20II/4sII.cpp)||:white_check_mark:|
@@ -517,10 +517,10 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/)|hard||||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)|medium||||
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/)|easy||||
-|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)|easy||||
-|522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)|medium||||
+|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)|easy|[cpp](./521.%20Longest%20Uncommon%20Subsequence%20I/LUS.cpp)||:white_check_mark:|
+|522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)|medium|||:x:|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|medium||||
-|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)|medium||||
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)|medium|[cpp](./524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/LWiDtD.cpp)||:white_check_mark:|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)|medium||||
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|medium||||
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/)|hard||:lock:||
@@ -679,7 +679,7 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)|hard|[c](./689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/mso3nos.c)||:white_check_mark:|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/)|easy||||
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)|hard||||
-|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)|medium||||
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)|medium|[cpp](./692.%20Top%20K%20Frequent%20Words/TkFW.cpp)||:white_check_mark:|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|easy||||
 |694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/)|medium||:lock:||
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|easy|||:white_check_mark:|
@@ -718,77 +718,81 @@ Some C++ knowledge websites: [cppreference](http://en.cppreference.com/w/), [cpl
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|medium||||
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)|medium||||
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)|hard||||
-|743|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/)|medium||:lock:||
-|744|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)|medium|[cpp](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/fslgtt.cpp)|||
-|745|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|easy|||:white_check_mark:|
-|746|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/)|hard||||
-|747|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|easy|[cpp](./747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/lnaltoo.cpp)||:white_check_mark:|
-|748|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|easy|||:white_check_mark:|
-|749|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)|medium||||
-|750|[Contain Virus](https://leetcode.com/problems/contain-virus/description/)|hard||||
-|751|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/)|medium||:lock:||
-|752|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/)|easy||:lock:||
-|753|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/)|medium||||
-|754|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)|hard||||
-|755|[Reach a Number](https://leetcode.com/problems/reach-a-number/description/)|medium||||
-|756|[Pour Water](https://leetcode.com/problems/pour-water/description/)|medium||:lock:||
-|757|[Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)|medium||||
-|759|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/)|hard||||
-|760|[Bold Words in String](https://leetcode.com/problems/bold-words-in-string/description/)|easy||:lock:||
-|761|[Employee Free Time](https://leetcode.com/problems/employee-free-time/description/)|hard||:lock:||
-|762|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)|easy||:lock:||
-|763|[Special Binary String](https://leetcode.com/problems/special-binary-string/description/)|hard||||
-|767|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|easy||||
-|768|[Partition Labels](https://leetcode.com/problems/partition-labels/description/)|medium||||
-|769|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/)|medium||||
-|770|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)|hard||||
-|777|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|easy|||:white_check_mark:|
-|778|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/)|medium|[cpp](./778.%20Swim%20in%20Rising%20Water/SiRW.cpp)|||
-|779|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)|hard||||
-|780|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|medium||||
-|781|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/)|hard||||
-|782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|easy|||:white_check_mark:|
-|785|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/)|hard||:lock:||
-|787|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/)|hard||||
-|788|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/)|hard||:lock:||
-|790|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|medium|||:white_check_mark:|
-|791|[Split BST](https://leetcode.com/problems/split-bst/description/)|medium||:lock:||
-|793|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)|medium|[cpp](./793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function/psfzf.cpp)|||
-|794|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)|hard|||:white_check_mark:|
-|795|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|medium||||
-|796|[Reaching Points](https://leetcode.com/problems/reaching-points/description/)|hard|||:white_check_mark:|
-|797|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/)|medium|||:white_check_mark:|
-|798|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/)|hard||||
-|799|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)|easy|||:white_check_mark:|
-|800|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)|easy||||
-|801|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)|medium||||
-|802|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)|hard|||:white_check_mark:|
-|803|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)|medium||||
-|804|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)|easy|||:white_check_mark:|
-|805|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/)|medium||||
-|806|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|medium|||:white_check_mark:|
-|807|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|medium|||:white_check_mark:|
-|808|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|medium|||:white_check_mark:|
-|809|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/)|hard|||:white_check_mark:|
-|810|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)|medium|||:white_check_mark:|
-|811|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)|medium|||:white_check_mark:|
-|812|[Rotate String](https://leetcode.com/problems/rotate-string/description/)|easy|||:white_check_mark:|
-|813|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|medium|||:white_check_mark:|
-|814|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)|hard|||:white_check_mark:|
-|815|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/)|medium|||:white_check_mark:|
-|818|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/)|easy||:lock:|:white_check_mark:|
-|819|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)|medium|||:white_check_mark:|
-|820|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)|medium|||:white_check_mark:|
-|821|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)|hard||||
-|822|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|easy|||:white_check_mark:|
-|823|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/)|hard|||:white_check_mark:|
-|824|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|easy|||:white_check_mark:|
-|825|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|medium|||:white_check_mark:|
-|826|[Soup Servings](https://leetcode.com/problems/soup-servings/description/)|medium|||:white_check_mark:|
-|827|[Expressive Words](https://leetcode.com/problems/expressive-words/description/)|medium|||:white_check_mark:|
-|828|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/)|hard|||:white_check_mark:|
-|829|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|easy|||:white_check_mark:|
-|830|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|easy|||:white_check_mark:|
-|831|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/)|medium|||:white_check_mark:|
-|832|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|medium|||:white_check_mark:|
-|833|[Bus Routes](https://leetcode.com/problems/bus-routes/description/)|hard|||:white_check_mark:|
+|742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/)|medium||:lock:||
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)|medium||||
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|easy|[cpp](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/fslgtt.cpp)||:white_check_mark:|
+|745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/)|hard||||
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|easy|||:white_check_mark:|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|easy|[cpp](./747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/lnaltoo.cpp)||:white_check_mark:|
+|748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)|medium||||
+|749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/)|hard||||
+|750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/)|medium||:lock:||
+|751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/)|easy||:lock:||
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/)|medium||||
+|753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)|hard||||
+|754|[Reach a Number](https://leetcode.com/problems/reach-a-number/description/)|medium||||
+|755|[Pour Water](https://leetcode.com/problems/pour-water/description/)|medium||:lock:||
+|756|[Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)|medium||||
+|757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/)|hard||||
+|758|[Bold Words in String](https://leetcode.com/problems/bold-words-in-string/description/)|easy||:lock:||
+|759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/description/)|hard||:lock:||
+|760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)|easy||:lock:||
+|761|[Special Binary String](https://leetcode.com/problems/special-binary-string/description/)|hard||||
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|easy||||
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/)|medium||||
+|764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/)|medium||||
+|765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)|hard||||
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|easy|[cpp](./766.%20Toeplitz%20Matrix/TM.cpp)||:white_check_mark:|
+|767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/)|medium||||
+|768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)|hard||||
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|medium||||
+|770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/)|hard||||
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|easy|||:white_check_mark:|
+|772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/)|hard||:lock:||
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/)|hard||||
+|774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/)|hard||:lock:||
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|medium|[cpp](./775.%20Global%20and%20Local%20Inversions/gali.cpp)||:white_check_mark:|
+|776|[Split BST](https://leetcode.com/problems/split-bst/description/)|medium||:lock:||
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)|medium||||
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)|hard|[cpp](./778.%20Swim%20in%20Rising%20Water/SiRW.cpp)||:white_check_mark:|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|medium||||
+|780|[Reaching Points](https://leetcode.com/problems/reaching-points/description/)|hard|||:white_check_mark:|
+|781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/)|medium|||:white_check_mark:|
+|782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/)|hard||||
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)|easy|||:white_check_mark:|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)|easy||||
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)|medium||||
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)|hard|[cpp](./786.%20K-th%20Smallest%20Prime%20Fraction/KthSPF.cpp)||:white_check_mark:|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)|medium||||
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)|easy|||:white_check_mark:|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/)|medium||||
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|medium|||:white_check_mark:|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|medium|||:white_check_mark:|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|medium|[cpp](./792.%20Number%20of%20Matching%20Subsequences/nms.cpp)||:white_check_mark:|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/)|hard|[cpp](./793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function/psfzf.cpp)||:white_check_mark:|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)|medium|||:white_check_mark:|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)|medium|||:white_check_mark:|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/)|easy|||:white_check_mark:|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|medium|||:white_check_mark:|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)|hard|||:white_check_mark:|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/)|medium|||:white_check_mark:|
+|800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/)|easy||:lock:|:white_check_mark:|
+|801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)|medium|||:white_check_mark:|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)|medium|||:white_check_mark:|
+|803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)|hard||||
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|easy|||:white_check_mark:|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/)|hard|||:white_check_mark:|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|easy|||:white_check_mark:|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|medium|||:white_check_mark:|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/)|medium|||:white_check_mark:|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/)|medium|||:white_check_mark:|
+|810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/)|hard|||:white_check_mark:|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|easy|||:white_check_mark:|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|easy|||:white_check_mark:|
+|813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/)|medium|||:white_check_mark:|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|medium|||:white_check_mark:|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/)|hard|||:white_check_mark:|
+|816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/)|medium|||:x:|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|medium|[cpp](./817.%20Linked%20List%20Components/LLC.cpp)||:white_check_mark:|
+|818|[Race Car](https://leetcode.com/problems/race-car/description/)|hard|[cpp](./818.%20Race%20Car/RC.cpp)||:white_check_mark:|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/)|easy|[cpp](./819.%20Most%20Common%20Word/MCW.cpp)||:white_check_mark:|
