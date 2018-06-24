@@ -34,7 +34,7 @@
 # Cached
 .DS_Store
 *.test
-
+.vscode
 # Temp
 templates/*
 test/*
