@@ -5,10 +5,12 @@ Basic Computer Science Knowledge, mainly about algorithms and others for intervi
 
 ### Directory
 
-| Dir                     | For                     | Type |
-| ----------------------- | ----------------------- | ---- |
-| [leetcode](./leetcode/) | algorithm               | code |
-| [scripts](./scripts)    | data processing scripts | code |
+| Dir                               | For                     | Type |
+|-----------------------------------|-------------------------|------|
+| [leetcode](./leetcode/)           | algorithm               | code |
+| [kickstart](./codejam/kickstart/) | algorithm               | code |
+| [scripts](./scripts)              | data processing scripts | code |
+
 #### Algorithms
 
 There ara some questions and my solutions implemented by C/C++ from [leetcode](https://leetcode.com).

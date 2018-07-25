@@ -44,3 +44,10 @@ scripts/*
 
 # allow
 !scripts/*.py
+
+# IO
+*.in
+*.out
+Solution
+codejam/others
+codejam/others.cpp
