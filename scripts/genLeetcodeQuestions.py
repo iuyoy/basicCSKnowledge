@@ -16,7 +16,7 @@ def listSolutions():
 
 # generate markdown url
 def getFilename(dirpath, filenames):
-    allow_postfix = {'cpp':'cpp', 'c':'c', '.py':'python'}
+    allow_postfix = {'cpp':'cpp', 'c':'c', 'py':'python'}
     solution = ''
     for filename in filenames:
         postfix = filename.split('.')[-1]

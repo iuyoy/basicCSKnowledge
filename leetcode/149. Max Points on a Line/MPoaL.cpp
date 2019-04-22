@@ -37,6 +37,7 @@ Explanation:
  *     Point(int a, int b) : x(a), y(b) {}
  * };
  */
+// O(N^3)
 class Solution {
   public:
     int maxPoints(vector<Point> &points) {

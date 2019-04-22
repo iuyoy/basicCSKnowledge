@@ -38,3 +38,25 @@ public:
         return A;
     }
 };
+
+// 更优雅
+class Solution {
+public:
+    vector<vector<int>> largeGroupPositions(string S) {
+        vector<vector<int>> ret;
+        for(int start = 0, i = 0; i<=S.size(); ++i)
+            if(i == S.size() || S[i] != S[start]){
+                if(i-start>2)
+                    ret.push_back({start, i-1});
+                start = i;
+            } 
+        return ret;
+    }
+};
+
+/*
+"abbxxxxzzy"
+"abc"
+"abcdddeeeeaabbbcd"
+"aaa"
+*/
