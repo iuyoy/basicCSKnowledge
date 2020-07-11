@@ -38,12 +38,7 @@
 # Temp
 templates/*
 test/*
-
-# Scripts
-scripts/*
-
-# allow
-!scripts/*.py
+*.pyc
 
 # IO
 *.in
@@ -59,3 +54,6 @@ findjobs/
 Ckiss/
 nowcoder/
 codejam/
+
+### Scripts ###
+scripts/secret.py
